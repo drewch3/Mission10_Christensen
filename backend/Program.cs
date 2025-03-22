@@ -1,4 +1,4 @@
-// kenzie whitman section 3 mission 10
+// drew section 3 mission 10
 
 using Microsoft.EntityFrameworkCore;
 using BowlingAPI.Data;

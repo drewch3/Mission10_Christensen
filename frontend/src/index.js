@@ -1,4 +1,4 @@
-// kenzie whitman section 3 mission 10
+// drew section 3 mission 10
 
 import React from "react";
 import ReactDOM from "react-dom/client"; // 👈 Correct import for React 18
